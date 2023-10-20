@@ -3,6 +3,8 @@ You need to run this script in its own folder with the deletedbackup folder insi
 
 So do not just drag it to Desktop or elsewhere and run it from there.
 
+(WHEN INSTALLING CREATE A DIRECTORY IN THE SCRIPTS FOLDER CALLED: deletedbackup)
+
 # Info
 This Bot can be run on your local machine and will act as a data saving bot for the info you have collected about people on Discord.
 

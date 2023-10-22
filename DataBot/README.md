@@ -1,3 +1,6 @@
+# Requirements
+Install the requirements by typing in (pip install -r requirements.txt) in the directory of the script.
+
 # Important
 You need to run this script in its own folder with the deletedbackup folder inside the Directory otherwise it wont work properly
 
